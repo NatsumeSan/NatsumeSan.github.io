@@ -397,6 +397,7 @@ header .go-back i {
     font-size: 1.9rem;
 }
 
+/* 动态更新图片背景底色
 @-webkit-keyframes rainbow {
     0%,
     100% {
@@ -477,6 +478,8 @@ header .go-back i {
     }
 }
 
+
+*/
 .recommend {
     margin-top: 20px;
 }
